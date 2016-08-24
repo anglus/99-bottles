@@ -1,6 +1,6 @@
 # 99 Bottles 
 
-A collection of programs that output the lyrics to the song "99 Bottles of Beer", as defined in the file "bottle.txt". Numerous examples of such programs may be found at the <a href="http://99-bottles-of-beer.net/">99 Bottles of Beer</a> Web site, but the site appears to no longer be maintained. My principal objective is not to add variations to the programming languages already found there, but to produce examples in programming languages that are not found there, because they are either relatively new or obscure, preferably both.
+A collection of programs that output the lyrics to the song "99 Bottles of Beer", as defined in the file "output.txt". Numerous examples of such programs may be found at the <a href="http://99-bottles-of-beer.net/">99 Bottles of Beer</a> Web site, but the site appears to no longer be maintained. My principal objective is not to add variations to the programming languages already found there, but to produce examples in programming languages that are not found there, because they are either relatively new or obscure, preferably both.
 
 As with the Fizzbuzz project, my goal is for each program to be (in descending order of priority):
 
