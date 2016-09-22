@@ -15,4 +15,4 @@ Below is a list of languages for which a 99 Bottles program exists in this colle
 
 - Crystal (added August 24, 2016)
 - Julia (added August 24, 2016)
-
+- Nim (added September 22, 2016)
